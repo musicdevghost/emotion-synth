@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# macOS system files
+.DS_Store
+
+# VS Code / JetBrains IDE settings
+.vscode/
+.idea/
+
+# Ollama cache (if ever used for model persistence)
+.ollama/
+
+# Pyo-generated audio files
+*.wav
+*.aif
+*.aiff
+
+# Logs
+*.log
+
+# Backup files
+*~
